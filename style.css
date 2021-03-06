@@ -1,4 +1,4 @@
-body, ul, h2, p{
+body, ul, h2, p {
     margin: 0;
     padding: 0;
 }
@@ -26,7 +26,7 @@ body {
 }
 
 .pposong-photo {
-    flex-basis: 400px;
+    flex-basis: 300px;
     flex-shrink: 0;
     margin: 0 10px;
     transition: all .4s;
